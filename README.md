@@ -12,17 +12,18 @@ Utilisation de l' Api Covid19 (https://covid19api.com/), une API gratuite sur le
 
  ## Technologies utilisées : ##
  
-- HTML5, CSS3, JavaScript, Node.js, Vue.js, Tailwind.
+- HTML5, CSS3, JavaScript, Node.js, Vue-cli, Tailwind.
 - dependances : Moment, postcss, core-js, vue-router.
  <br>
 
 
- ### Project  : Scoreur-Game ###
+ ### Project  :Scoreur-CovidTracker ###
 
 
 ## Technologies, software, languages, frameworks, plugins used : ##
 
 - HTML5, CSS3, JavaScript, Node.js, Vue.js, Tailwind.
+- dependancies : Moment, postcss, core-js, vue-router.
 
 
 <br>
