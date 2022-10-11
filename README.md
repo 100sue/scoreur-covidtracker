@@ -11,14 +11,14 @@ Description : Petite appli conçue pour savoir en temps réel, le nombre de cas 
 <br>
  
 Utilisation de l' Api Covid19, une API gratuite sur les données de la maladie du CoronaVirus (https://covid19api.com/).
- <br>
-Accès à la documentation : https://documenter.getpostman.com/view/10808728/SzS8rjbc
 <br>
 <br>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/90606431/195022446-3c8556f8-7396-443d-8efd-04df9413667c.png")/>
-
+<br>
+Accès à la documentation : https://documenter.getpostman.com/view/10808728/SzS8rjbc
+<br>
 <br>
  
 ## Technologies utilisées : ##
@@ -28,7 +28,7 @@ Accès à la documentation : https://documenter.getpostman.com/view/10808728/SzS
  <br>
 
 
- ### Project  :Scoreur-CovidTracker ###
+ ### Project: Scoreur-CovidTracker ###
 
 
 ## Technologies, software, languages, frameworks, plugins used : ##
