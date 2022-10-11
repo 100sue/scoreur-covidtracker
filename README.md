@@ -10,7 +10,7 @@ Description : Petite appli conçue pour savoir en temps réel, le nombre de cas 
 <br>
 <br>
  
-Utilisation de l' Api Covid19 (https://covid19api.com/), une API gratuite sur les données de la maladie du CoronaVirus.
+Utilisation de l' Api Covid19, une API gratuite sur les données de la maladie du CoronaVirus (https://covid19api.com/).
  <br>
 Accès à la documentation : https://documenter.getpostman.com/view/10808728/SzS8rjbc
 <br>
