@@ -1,6 +1,6 @@
 ## Projet : Scoreur-CovidTracker  ##
 
-Scoreur-CovidTracker  is developed by Scoreur App Technology.
+Scoreur-CovidTracker 
 
 Description : Petite appli conçue pour savoir en temps réel, le nombre de cas de malades du Covid (nbre de nouveaux cas, total, nbre de morts, répartition par pays, ...)
  <br>
@@ -56,3 +56,38 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+<br>
+<br>
+
+<br>
+<br>
+
+<p align="center">
+<img src= "https://github.com/100sue/bubble-game/assets/90606431/97c01f78-8028-4b00-a632-530b6c987504" width="669" height="418"/>
+</p>
+
+<h1 align="center">Web Developer - Full Stack</h1>
+
+<p style="margin: 15px;" align="center">
+     <h3 align="center">Hi, I'm web developer and I make some application, <br> and some others stuff in developement.</h3>
+</p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/roland-appert/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roland-appert/" height="30" width="40" /></a>
+</p>
+<br/>
+
+<h3 align="center">Or, if you need my expertise for your project <br>👇</h3>
+<p align="center">
+  
+<p align="center">
+    - <a href="mailto:scoreur@gmail.com">Send email</a> -
+    <p style='margin-bottom: 40px'>
+    </p>
+</p>  
+<br>
+<br>
+<p align="center">
+<img src= "https://github.com/100sue/bubble-game/assets/90606431/7f2b4980-ba84-4225-a25a-b5302f0ffc88"/>
+</p>
